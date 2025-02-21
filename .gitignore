@@ -165,3 +165,4 @@ sft_output/
 .DS_Store
 /1_instruction_tuning/notebooks/sft_distill_output
 /4_evaluation/notebooks/.litellm_cache
+/data
